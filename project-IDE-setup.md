@@ -8,6 +8,7 @@ npm i -D prettier eslint-config-prettier prettier-plugin-tailwindcss --legacy-pe
 
 ### install extensions
 ESLint
-Prittier
+Prettier
 Prisma
-tailwind
+Tailwind CSS IntelliSense
+
